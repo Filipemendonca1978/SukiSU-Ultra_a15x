@@ -30,7 +30,7 @@ cd ..
 bash ./build_kernel.sh
 ```
 
-The output will be placed in the `out/` directory.
+The output will be placed in the `out/target/product/a15x/obj/KERNEL_OBJ/kernel-5.15/arch/arm64/boot` directory.
 
 ---
 
@@ -40,8 +40,9 @@ The output will be placed in the `out/` directory.
 * **SukiSU-Ultra** developers for patches
 * [KernelSU](https://github.com/tiann/KernelSU) developers for patches
 * **AOSP developers** for system and kernel
-* **Zediss** for testing and inspiration
+* **Zediss** for testing inspiration, and asking me to do it
 * **Samsung developers** for kernel sources
+* **Ravindu** for inspiration and tutorials about preparing environment
 
 ---
 
