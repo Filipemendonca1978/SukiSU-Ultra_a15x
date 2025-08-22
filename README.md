@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](./LICENSE)
 [![Kernel](https://img.shields.io/badge/kernel-5.15-green.svg)]()
 [![Platform](https://img.shields.io/badge/platform-Android-orange.svg)]()
+[![Release](https://img.shields.io/badge/release-initial-brightgreen)](https://github.com/Filipemendonca1978/SukiSU-Ultra_a15x/releases/tag/initial)
 
 ```text
 #
