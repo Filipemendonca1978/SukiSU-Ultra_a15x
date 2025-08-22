@@ -7,7 +7,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
-
+´  ´
 A kernel-based root solution for Android devices, forked from [`tiann/KernelSU`](https://github.com/tiann/KernelSU), and added some interesting changes.
 
 # To build:
