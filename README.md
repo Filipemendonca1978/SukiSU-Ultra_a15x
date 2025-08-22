@@ -40,7 +40,7 @@ The output will be placed in the `out/target/product/a15x/obj/KERNEL_OBJ/kernel-
 * **SukiSU-Ultra** developers for patches
 * [KernelSU](https://github.com/tiann/KernelSU) developers for patches
 * **AOSP developers** for system and kernel
-* **Zediss** for testing inspiration, and asking me to do it
+* **Zediss P** for testing inspiration, and asking me to do it
 * **Samsung developers** for kernel sources
 * **Ravindu** for inspiration and tutorials about preparing environment
 
