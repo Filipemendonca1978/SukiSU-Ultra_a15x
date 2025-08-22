@@ -1,6 +1,6 @@
 # SukiSU-Ultra
 
-```
+```text
 #
 # Copyright (C) 2024 The Android Open Source Project
 #
@@ -16,7 +16,7 @@ A kernel-based root solution for Android devices, forked from [`tiann/KernelSU`]
 - cd inside the kernel-5.15
 - Clone this repository
 
-```
+```bash
 cd ..
 bash ./build_kernel.sh
 ```
