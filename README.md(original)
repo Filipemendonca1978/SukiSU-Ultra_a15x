@@ -1,3 +1,5 @@
+# SukiSU-Ultra
+
 ```
 #
 # Copyright (C) 2024 The Android Open Source Project
@@ -5,8 +7,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
-
-# SukiSU-Ultra
 
 A kernel-based root solution for Android devices, forked from [`tiann/KernelSU`](https://github.com/tiann/KernelSU), and added some interesting changes.
 
